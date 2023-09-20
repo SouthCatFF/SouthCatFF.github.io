@@ -1,0 +1,19 @@
+changeBg:80239fe1b1e23801a57d2a97ad1e7502.jpg -next;
+changeFigure: -right -next;
+changeFigure: -left -next;
+changeFigure: -next;
+changeFigure:爱丽丝/000.png -transform={"alpha":1,"position":{"x":0,"y":"600"},"scale":{"x":"2","y":"2"},"rotation":0,"blur":0,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0} -next;
+爱丽丝:我们计算机协会成立已有11年之久| -爱丽丝/6.wav -fontSize=default;
+爱丽丝:是计算机知识交流的社团、计算机技能教学社团|计算机软硬件维修和科普社团…… -爱丽丝/我々は、コンピュータ知識交流のサークル、.wav -fontSize=default;
+changeFigure:爱丽丝/005.png -transform={"alpha":1,"position":{"x":0,"y":"600"},"scale":{"x":"2","y":"2"},"rotation":0,"blur":0,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0} -next;
+爱丽丝:以及……全世界最后一个活着的社团 -爱丽丝/そして......全世界で最後にのこるサ.wav -fontSize=default;
+changeFigure: -next;
+changeFigure:姬野星奏/ST01C_B100.png -left -transform={"alpha":1,"position":{"x":"400","y":"800"},"scale":{"x":"2","y":"2"},"rotation":0,"blur":0,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0} -next;
+星奏:......全世界最后一个活着的社团 -星奏/018.wav -fontSize=default;
+changeFigure:爱丽丝/000.png -right -transform={"alpha":1,"position":{"x":0,"y":"600"},"scale":{"x":"2","y":"2"},"rotation":0,"blur":0,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0} -next;
+爱丽丝:是的，这个世界仅存的人类|都来到了宁师的计算机协会 -爱丽丝/はい、この世界に残っている人類は、全てニ.wav -fontSize=default;
+爱丽丝:我们目前的目的|是保护幸存者，以及拯救这个世界 -爱丽丝/今我々の目的は、生存者の保護と、この世界.wav -fontSize=default;
+changeFigure:爱丽丝/006.png -right -transform={"alpha":1,"position":{"x":0,"y":"600"},"scale":{"x":"2","y":"2"},"rotation":0,"blur":0,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0} -next;
+爱丽丝:可以说，我们的存在|就是人类势力的最后防线 -爱丽丝/我々の存在は、人類勢力の最後の防御線です.wav -fontSize=default;
+choose:为什么说我才是拯救这个世界的关键？:2.2.txt|说到底这个世界究竟发生什么了？:2.3.txt|那没事了:2.4.txt;
+callScene:介绍.txt

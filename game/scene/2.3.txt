@@ -1,0 +1,23 @@
+changeBg:80239fe1b1e23801a57d2a97ad1e7502.jpg -next;
+changeFigure: -right -next;
+changeFigure: -left -next;
+changeFigure: -next;
+changeFigure:大剑侠VAN.png -transform={"alpha":1,"position":{"x":0,"y":"100"},"scale":{"x":"1.2","y":"1.2"},"rotation":0,"blur":0,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0} -next;
+VAN:这个世界太♂乱 -VAN3.wav -fontSize=default;
+VAN:原本这里十分甚至九分地和平|某天突然出现了一大群魔物，占领了这个世界 -fontSize=default;
+VAN:据我所知想必是某种怨念的集合体|总之，我们人类的力量过于弱小，战胜不了他们 -fontSize=default;
+VAN:我也不过是勉强有些许还手之力才得以幸存| -fontSize=default;
+VAN:于是我去♂年加入计协至♂今|守护着其余的幸存者 -VAN4.wav -fontSize=default;
+changeFigure:爱丽丝/006.png -right -transform={"alpha":1,"position":{"x":0,"y":"600"},"scale":{"x":"2","y":"2"},"rotation":0,"blur":0,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0} -next;
+爱丽丝:其实VAN先生已经相当强大了 -爱丽丝/実はワンさんは、もうかなり強くなっていま.wav -fontSize=default;
+拥有暗♂黑之力的VAN|几乎可以说是人类最强都不为过 -爱丽丝/暗黒の力を持つのワンさんが、もはや人類最.wav -fontSize=default;
+但是，即使是VAN，也不是那帮魔物们的对手| -爱丽丝/しかし、例えワンさんにも、あの化け物たち.wav -fontSize=default;
+因此，人类在这个世界的处境变得十分艰难 -爱丽丝/そのため、人類のこの世界での立場は非常に.wav -fontSize=default;
+changeFigure:姬野星奏/ST01C_D080.png -left -transform={"alpha":1,"position":{"x":0,"y":"800"},"scale":{"x":"2","y":"2"},"rotation":0,"blur":0,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0} -next;
+星奏:难道就没有对付那些魔物的办法吗？ -星奏/015.wav -fontSize=default;
+changeFigure:爱丽丝/005.png -right -transform={"alpha":1,"position":{"x":0,"y":"600"},"scale":{"x":"2","y":"2"},"rotation":0,"blur":0,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0} -next;
+爱丽丝:如果没有新增的变数的话|我想……恐怕是的 -爱丽丝/もし新しい変数がなければ......おそ.wav -fontSize=default;
+changeFigure:姬野星奏/ST01C_C120.png -left -transform={"alpha":1,"position":{"x":0,"y":"800"},"scale":{"x":"2","y":"2"},"rotation":0,"blur":0,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0} -next;
+星奏:怎……怎么会…… -星奏/016.wav -fontSize=default;
+choose:什么是计算机协会？大家在这里做什么？:2.1.txt|为什么说我才是拯救这个世界的关键？:2.2.txt|那没事了:2.4.txt;
+callScene:介绍.txt

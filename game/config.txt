@@ -1,0 +1,5 @@
+Game_name:姬野星奏的奇妙冒险;
+Game_key:cac6dc03425df3;
+Package_name:;
+Title_bgm:5.mp3;
+Title_img:EV122A.png;

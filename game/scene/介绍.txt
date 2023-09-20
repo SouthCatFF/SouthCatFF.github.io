@@ -1,0 +1,5 @@
+changeBg:80239fe1b1e23801a57d2a97ad1e7502.jpg -next;
+changeFigure:姬野星奏/ST01C_B040.png -left -transform={"alpha":1,"position":{"x":"400","y":"800"},"scale":{"x":"2","y":"2"},"rotation":0,"blur":0,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0} -next;
+changeFigure:爱丽丝/001.png -right -transform={"alpha":1,"position":{"x":0,"y":"600"},"scale":{"x":"2","y":"2"},"rotation":0,"blur":0,"oldFilm":0,"dotFilm":0,"reflectionFilm":0,"glitchFilm":0,"rgbFilm":0,"godrayFilm":0} -next;
+爱丽丝:来吧，有什么想问的问题|都可以告诉我 -爱丽丝/さて、何か問題がありましたら、ぜひ教えて.wav -fontSize=default;
+choose:什么是计算机协会？大家在这里做什么？:2.1.txt|为什么说我才是拯救这个世界的关键？:2.2.txt|说到底这个世界究竟发生什么了？:2.3.txt;
